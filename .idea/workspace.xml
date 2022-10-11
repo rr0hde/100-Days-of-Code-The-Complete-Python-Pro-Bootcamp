@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f492c5b8-e8d2-444d-8782-2c3430ebce32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day019/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day019/main01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day020/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day020/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day022/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day022/paddle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day018/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day018/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +40,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.main (2)">
     <configuration name="main 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100-Days-of-Code-The-Complete-Python-Pro-Bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100-Days-of-Code-The-Complete-Python-Pro-Bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day018" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day022" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day018/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day022/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main (4)" />
         <item itemvalue="Python.main01" />
         <item itemvalue="Python.main 2" />
-        <item itemvalue="Python.main (3)" />
       </list>
     </recent_temporary>
   </component>
