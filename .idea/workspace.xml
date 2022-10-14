@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f492c5b8-e8d2-444d-8782-2c3430ebce32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day024/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day024/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day024/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day024/scoreboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day024/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day025/main01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day025/weather_data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day023/car_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/day023/car_manager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day023/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day023/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day023/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/day023/player.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day023/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/day023/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input/Letters/starting_letter.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input/Names/invited_names.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/ReadyToSend/example.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,23 +36,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Brent/Documents/GitHub/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/day024",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Brent/Documents/GitHub/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/day024&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Brent\Documents\GitHub\100-Days-of-Code-The-Complete-Python-Pro-Bootcamp\day024" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Brent\Documents\GitHub\100-Days-of-Code-The-Complete-Python-Pro-Bootcamp\day025" />
       <recent name="C:\Users\Brent\Documents\GitHub\100-Days-of-Code-The-Complete-Python-Pro-Bootcamp" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.main_instructor">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100-Days-of-Code-The-Complete-Python-Pro-Bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,6 +67,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day024challenge/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100-Days-of-Code-The-Complete-Python-Pro-Bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day025" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day025/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="readwrite" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100-Days-of-Code-The-Complete-Python-Pro-Bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day024/readwrite.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Brent\Documents\GitHub\100-Days-of-Code-The-Complete-Python-Pro-Bootcamp\day025\main01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scoreboard" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main_instructor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100-Days-of-Code-The-Complete-Python-Pro-Bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,32 +167,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day024/scoreboard.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="snake" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100-Days-of-Code-The-Complete-Python-Pro-Bootcamp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day024/snake.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day025/main_instructor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main_instructor" />
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main01" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main (4)" />
-        <item itemvalue="Python.snake" />
-        <item itemvalue="Python.readwrite" />
-        <item itemvalue="Python.scoreboard" />
       </list>
     </recent_temporary>
   </component>
