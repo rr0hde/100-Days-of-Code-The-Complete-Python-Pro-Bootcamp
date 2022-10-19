@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f492c5b8-e8d2-444d-8782-2c3430ebce32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day032/ins_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day032/main01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day033/main01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +50,7 @@
       <recent name="C:\Users\Brent\Documents\GitHub\100-Days-of-Code-The-Complete-Python-Pro-Bootcamp" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.main (2)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100-Days-of-Code-The-Complete-Python-Pro-Bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day029" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day033" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day029/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day033/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,13 +177,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100-Days-of-Code-The-Complete-Python-Pro-Bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day033" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Brent\Documents\GitHub\100-Days-of-Code-The-Complete-Python-Pro-Bootcamp\day033\main01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main01" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main01" />
         <item itemvalue="Python.main (6)" />
-        <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main (2)" />
       </list>
     </recent_temporary>
   </component>
