@@ -8,7 +8,7 @@ ORIGIN_CITY_IATA = "LON"
 data_manager = DataManager()
 flight_search = FlightSearch()
 notification_manager = NotificationManager()
-
+# send a text from twilio
 sheet_data = data_manager.get_destination_data()
 
 if sheet_data[0]["iataCode"] == "":
